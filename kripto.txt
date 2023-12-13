@@ -1,0 +1,34 @@
+
+Bir kripto para sitesi için React bileşenleri tasarlamak oldukça heyecan verici bir proje olabilir. Bu tür bir projede genellikle aşağıdaki ana bileşenlere ihtiyaç duyulur:
+
+1. Anasayfa (HomePage) Bileşeni
+Amaç: Kullanıcılara siteye hoş geldiniz mesajı ve genel bakış sunmak.
+İçerik Önerileri: Site açıklaması, başlıca özellikler, ve kullanıcıların yapabileceği işlemler hakkında bilgi.
+2. Kripto Para Listesi (CryptoList) Bileşeni
+Amaç: Mevcut kripto paraların bir listesini göstermek.
+İçerik Önerileri: Her kripto para birimi için ad, fiyat, piyasa değeri, hacim ve yüzdesel değişiklik bilgileri.
+3. Kripto Para Detayı (CryptoDetail) Bileşeni
+Amaç: Seçilen her bir kripto para birimi hakkında detaylı bilgi sağlamak.
+İçerik Önerileri: Fiyat grafikleri, tarihsel veriler, teknik analizler, ve coin hakkında genel bilgiler.
+4. Haberler (News) Bileşeni
+Amaç: Kripto para dünyasındaki güncel haberleri ve gelişmeleri göstermek.
+İçerik Önerileri: Güncel haberler, analizler, uzman görüşleri.
+5. Portföy (Portfolio) Bileşeni
+Amaç: Kullanıcılara kendi kripto portföylerini yönetme imkanı sunmak.
+İçerik Önerileri: Kullanıcının sahip olduğu coin'ler, toplam değer, kazanç/zarar analizi.
+6. Market Analizi (MarketAnalysis) Bileşeni
+Amaç: Piyasa trendleri ve analizleri sunmak.
+İçerik Önerileri: Piyasa grafikleri, dominant coin'ler, piyasa duyarlılıkları.
+7. Giriş/Kayıt (Login/Register) Bileşenleri
+Amaç: Kullanıcılara siteye giriş yapma ve kayıt olma işlevselliği sunmak.
+İçerik Önerileri: Giriş formu, kayıt formu, şifre sıfırlama seçeneği.
+8. Footer (Alt Bilgi) Bileşeni
+Amaç: Site hakkında ek bilgiler, bağlantılar ve telif hakkı bilgilerini sunmak.
+İçerik Önerileri: Hakkımızda, iletişim bilgileri, sosyal medya bağlantıları, kullanım koşulları.
+9. Arama (Search) Bileşeni
+Amaç: Kullanıcıların belirli coin'ler veya haberler hakkında arama yapmalarını sağlamak.
+İçerik Önerileri: Arama çubuğu, sonuçlar sayfası.
+10. Ayarlar (Settings) Bileşeni
+Amaç: Kullanıcıların hesap ayarlarını yönetmelerine olanak tanımak.
+İçerik Önerileri: Hesap bilgileri, güvenlik ayarları, bildirim tercihleri.
+Bu bileşenler, bir kripto para sitesinin temel ihtiyaçlarını karşılar ve kullanıcıların site içinde rahatça gezinmelerini sağlar. Her bir bileşenin tasarımı ve işlevselliği, projenizin gereksinimlerine ve hedef kitlenizin beklentilerine göre özelleştirilebilir.
